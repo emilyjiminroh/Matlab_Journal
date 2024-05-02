@@ -1,5 +1,5 @@
 # Matlab_Journal
-Journals with MATLAB for studying Basic Mathematics
+Journals with MATLAB for studying Basic Control System
 
 ### 1) The stabilization of a structure Using Spring Mass Damper System
 
